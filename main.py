@@ -9,6 +9,10 @@ No network, no secrets, no input read.
 import os
 
 TEXT = (
+    # Three beats, in the phone's own voice: what it kept (specific
+    # inventory), what it forgives (the drops, the toilet, the 3 a.m.
+    # doomscrolls), and the twist — it would rather go out cool
+    # than be rescued by the charger.
     "1%. it's me. i kept all 4,217 of your photos, yes, even the 400 "
     "blurry ones of the dog. i forgive the drops, the toilet, the 3 a.m. "
     "doomscrolls. don't tell the charger. let me go out cool."
